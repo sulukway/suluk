@@ -1,98 +1,146 @@
 #EXTM3U
+
 #EXTINF:-1, ## SULUK ENTERTAINMENT ## 
 http://62.210.93.43:80/live?channelId=103&deviceMac=00:1A:79:3C:CD:22&uid=1739
-#EXTINF:-1, SULUK@ - MOVISTAR
+
+#EXTINF:-1,Suluk@ - MOVISTAR
 http://185.231.160.49/600/1/index.m3u8
-#EXTINF:-1, SULUK@ - TV5 Monde
+
+#EXTINF:-1,Suluk@ - TV5 Monde
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1, SULUK@ - HD Fashion
+
+#EXTINF:-1,Suluk@ - HD Fashion
 http://Zoiper Click2Dial95.67.47.115ES/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1, SULUK@ - ID Fashion (English)
+
+#EXTINF:-1,Suluk@ - ID Fashion (English)
 http://95.67.8.22/hls/idfashion/index.m3u8
-#EXTINF:-1, SULUK@ - CCTV-1
+
+#EXTINF:-1,Suluk@ - CCTV-1
 http://223.110.241.204:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
-#EXTINF:-1, SULUK@ - CCTV-2
+
+#EXTINF:-1,Suluk@ - CCTV-2
 http://223.110.241.204:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HQ/
-#EXTINF:-1, SULUK@ - CCTV-3
+
+#EXTINF:-1,Suluk@ - CCTV-3
 http://223.110.241.204:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
-#EXTINF:-1, SULUK@ - CCTV-4
+
+#EXTINF:-1,Suluk@ - CCTV-4
 http://223.110.241.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-HQ/
-#EXTINF:-1, SULUK@ - CCTV-5
+
+#EXTINF:-1,Suluk@ - CCTV-5
 http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
-#EXTINF:-1, SULUK@ - CCTV-5+
+
+#EXTINF:-1,Suluk@ - CCTV-5+
 http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
-#EXTINF:-1, SULUK@ - FOX HD
+
+#EXTINF:-1,Suluk@ - FOX HD
 http://46.149.191.229:8000/play/a01c
-#EXTINF:-1, SULUK@ - РЕН ТВ
+
+#EXTINF:-1,Suluk@ - РЕН ТВ
 http://194.143.150.213:8080/udp/239.195.32.18:1234
-#EXTINF:-1, SULUK@ - SundanceTV
+
+#EXTINF:-1,Suluk@ - SundanceTV
 http://46.149.191.229:8000/play/a01d
-#EXTINF:-1, SULUK@ - National Geographic
+
+#EXTINF:-1,Suluk@ - National Geographic
 http://46.149.191.229:8000/play/a01i
-#EXTINF:-1, SULUK@ - Motorvision Channel HD
+
+#EXTINF:-1,Suluk@ - Motorvision Channel HD
 http://46.149.191.229:8000/play/a01e
-#EXTINF:-1, SULUK@ - Disney Junior
+
+#EXTINF:-1,Suluk@ - Disney Junior
 http://46.149.191.229:8000/play/a01l
-#EXTINF:-1, SULUK@ - Nat Geo HD
+
+#EXTINF:-1,Suluk@ - Nat Geo HD
 http://46.149.191.229:8000/play/a013
-#EXTINF:-1, SULUK@ - FOX Life HD
+
+#EXTINF:-1,Suluk@ - FOX Life HD
 http://46.149.191.229:8000/play/a01b
-#EXTINF:-1, SULUK@ - Village Cinema HD
+
+#EXTINF:-1,Suluk@ - Village Cinema HD
 http://46.149.191.229:8000/play/a011
-#EXTINF:-1, SULUK@ - EDGE sport HD
+
+#EXTINF:-1,Suluk@ - EDGE sport HD
 http://46.149.191.229:8000/play/a01h
-#EXTINF:-1, SULUK@ - Disney Channel
+
+#EXTINF:-1,Suluk@ - Disney Channel
 http://46.149.191.229:8000/play/a01g
-#EXTINF:-1, SULUK@ - EDGE sport HD
+
+#EXTINF:-1,Suluk@ - EDGE sport HD
 http://46.149.191.229:8000/play/a01a
-#EXTINF:-1, SULUK@ - COSMOTE SPORT 1 HD
+
+#EXTINF:-1,Suluk@ - COSMOTE SPORT 1 HD
 http://46.149.191.229:8000/play/a00s
-#EXTINF:-1, SULUK@ - COSMOTE SPORT 2 HD
+
+#EXTINF:-1,Suluk@ - COSMOTE SPORT 2 HD
 http://46.149.191.229:8000/play/a00u
-#EXTINF:-1, SULUK@ - COSMOTE SPORT 3 HD
+
+#EXTINF:-1,Suluk@ - COSMOTE SPORT 3 HD
 http://46.149.191.229:8000/play/a00v
-#EXTINF:-1, SULUK@ - COSMOTE SPORT 4 HD
+
+#EXTINF:-1,Suluk@ - COSMOTE SPORT 4 HD
 http://46.149.191.229:8000/play/a00x
-#EXTINF:-1, SULUK@ - COSMOTE SPORT 5 HD
+
+#EXTINF:-1,Suluk@ - COSMOTE SPORT 5 HD
 http://46.149.191.229:8000/play/a012
-#EXTINF:-1, SULUK@ - COSMOTE SPORT 6 HD
+
+#EXTINF:-1,Suluk@ - COSMOTE SPORT 6 HD
 http://46.149.191.229:8000/play/a010
-#EXTINF:-1, SULUK@ - COSMOTE SPORT 7 HD
+
+#EXTINF:-1,Suluk@ - COSMOTE SPORT 7 HD
 http://46.149.191.229:8000/play/a00z
-#EXTINF:-1, SULUK@ - COSMOTE SPORT 8HD
+
+#EXTINF:-1,Suluk@ - COSMOTE SPORT 8HD
 http://46.149.191.229:8000/play/a015
-#EXTINF:-1, SULUK@ - COSMOTE SPORT Highlights HD
+
+#EXTINF:-1,Suluk@ - COSMOTE SPORT Highlights HD
 http://46.149.191.229:8000/play/a019
-#EXTINF:-1, SULUK@ - COSMOTE History HD
+
+#EXTINF:-1,Suluk@ - COSMOTE History HD
 http://46.149.191.229:8000/play/a017
-#EXTINF:-1, SULUK@ - COSMOTECinema 1 HD
+
+#EXTINF:-1,Suluk@ - COSMOTECinema 1 HD
 http://46.149.191.229:8000/play/a00r
-#EXTINF:-1, SULUK@ - COSMOTE Cinema 2 HD
+
+#EXTINF:-1,Suluk@ - COSMOTE Cinema 2 HD
 http://46.149.191.229:8000/play/a014
-#EXTINF:-1, SULUK@ - COSMOTE Cinema 3 HD
+
+#EXTINF:-1,Suluk@ - COSMOTE Cinema 3 HD
 http://46.149.191.229:8000/play/a00w
-#EXTINF:-1, SULUK@ - COSMOTE Cinema 4 HD
+
+#EXTINF:-1,Suluk@ - COSMOTE Cinema 4 HD
 http://46.149.191.229:8000/play/a018
-#EXTINF:-1, SULUK@ - VIASAT HISTORY
+
+#EXTINF:-1,Suluk@ - VIASAT HISTORY
 http://46.149.191.229:8000/play/a01j
+
 EXTINF:-1, SULUK@ - РОССИЯ 1
 http://194.143.150.213:8080/udp/239.195.32.2:1234
-#EXTINF:-1, SULUK@ - МАТЧ!
+
+#EXTINF:-1,Suluk@ - МАТЧ!
 http://194.143.150.213:8080/udp/239.195.32.3:1234
-#EXTINF:-1, SULUK@ - РОССИЯ 24
+
+#EXTINF:-1,Suluk@ - РОССИЯ 24
 http://194.143.150.213:8080/udp/239.195.32.4:1234
-#EXTINF:-1, SULUK@ - РОССИЯ К
+
+#EXTINF:-1,Suluk@ - РОССИЯ К
 http://194.143.150.213:8080/udp/239.195.32.5:1234
-#EXTINF:-1, SULUK@ - DANCE TV 
+
+#EXTINF:-1,Suluk@ - DANCE TV 
 https://3ltdm73t.rocketcdn.com//smil:kraldijital-danstv.smil/chunklist_b2328000.m3u8
-#EXTINF:-1, SULUK@ - HEART TV HD 
+
+#EXTINF:-1,Suluk@ - HEART TV HD 
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1, SULUK@ - HIT TV 
+
+#EXTINF:-1,Suluk@ - HIT TV 
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
-#EXTINF:-1, SULUK@ - M2O TV 
+
+#EXTINF:-1,Suluk@ - M2O TV 
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1, SULUK@ - MUSIC CHOICE 
+
+#EXTINF:-1,Suluk@ - MUSIC CHOICE 
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1, SULUK@ - MUSIC TOP 
+
+#EXTINF:-1,Suluk@ - MUSIC TOP 
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
