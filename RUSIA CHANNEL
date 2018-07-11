@@ -3,15 +3,6 @@
 #EXTINF:-1, ## SULUK ENTERTAINMENT ## 
 http://62.210.93.43:80/live?channelId=103&deviceMac=00:1A:79:3C:CD:22&uid=1739
 
-#EXTINF:-1,Suluk@ - MOVISTAR
-http://185.231.160.49/600/1/index.m3u8
-
-#EXTINF:-1,Suluk@ - TV5 Monde
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8?tecnotv.info?iptv.m3u8
-
-#EXTINF:-1,Suluk@ - HD Fashion
-http://Zoiper Click2Dial95.67.47.115ES/hls/hdfashion_ua_hi/index.m3u8
-
 #EXTINF:-1,Suluk@ - ID Fashion (English)
 http://95.67.8.22/hls/idfashion/index.m3u8
 
@@ -114,7 +105,7 @@ http://46.149.191.229:8000/play/a018
 #EXTINF:-1,Suluk@ - VIASAT HISTORY
 http://46.149.191.229:8000/play/a01j
 
-#EXTINF:-1, SULUK@ - РОССИЯ 1
+#EXTINF:-1,Suluk@ - РОССИЯ 1
 http://194.143.150.213:8080/udp/239.195.32.2:1234
 
 #EXTINF:-1,Suluk@ - МАТЧ!
