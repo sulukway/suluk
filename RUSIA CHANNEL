@@ -114,7 +114,7 @@ http://46.149.191.229:8000/play/a018
 #EXTINF:-1,Suluk@ - VIASAT HISTORY
 http://46.149.191.229:8000/play/a01j
 
-EXTINF:-1, SULUK@ - РОССИЯ 1
+#EXTINF:-1, SULUK@ - РОССИЯ 1
 http://194.143.150.213:8080/udp/239.195.32.2:1234
 
 #EXTINF:-1,Suluk@ - МАТЧ!
