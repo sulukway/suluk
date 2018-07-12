@@ -7,10 +7,10 @@ http://6ba7dd85.kablakaka.space/iptv/FBYXRLZLPX39R7/1036/index.m3u8
 http://194.143.150.213:8080/udp/239.195.32.18:1234
 
 #EXTINF:-1, Suluk@-РОССИЯ 1 HD
-http://6ba7dd85.kablakaka.space/iptv/FBYXRLZLPX39R7/205/index.m3u8
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_vhig.m3u8
 
 #EXTINF:-1, Suluk@-МАТЧ! HD
-http://6ba7dd85.kablakaka.space/iptv/FBYXRLZLPX39R7/212/index.m3u8
+http://193.124.177.175:8081/live-x/matchtvhd/playlist.m3u8
 
 #EXTINF:-1, Suluk@-VIASAT SPORT HD
 http://6ba7dd85.kablakaka.space/iptv/FBYXRLZLPX39R7/208/index.m3u8
@@ -115,7 +115,7 @@ http://46.149.191.229:8000/play/a018
 http://46.149.191.229:8000/play/a01j
 
 #EXTINF:-1, Suluk@-РОССИЯ 24
-http://194.143.150.213:8080/udp/239.195.32.4:1234
+http://6ba7dd85.kablakaka.space/iptv/FBYXRLZLPX39R7/507/index.m3u8
 
 #EXTINF:-1, Suluk@-РОССИЯ К
 http://194.143.150.213:8080/udp/239.195.32.5:1234
