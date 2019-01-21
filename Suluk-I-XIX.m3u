@@ -83,7 +83,6 @@ https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",TATA SKY BOLLYWOOD PREMIERE HD
 http://tvservice.pro:80/live/911296481644/9327690642/34576.ts
 
-
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",STAR SPORTS 1 FHD
 http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/27551
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",STAR SPORTS 2 FHD
@@ -105,6 +104,19 @@ http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/27543
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",SONY TEN  3 FHD
 http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/27542
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",Jio Football HD
+http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14798
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",Jio Football 1 HD
+http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14800
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",Jio Football 2 HD
+http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14801
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",Jio Football 3 HD
+http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14805
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",Jio Football 4 HD
+http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14806
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",Jio Sports HD
+http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14599
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",Sony Six HD
 http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14402
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",Sony Ten 1 HD
@@ -120,19 +132,6 @@ http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14502
 http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14495
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",Star Sports 2 FHD
 http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14058
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",Jio Football HD
-http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14798
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",Jio Football 1 HD
-http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14800
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",Jio Football 2 HD
-http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14801
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",Jio Football 3 HD
-http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14805
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",Jio Football 4 HD
-http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14806
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",Jio Sports HD
-http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14599
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",Animal Planet HD
 http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14617
@@ -463,37 +462,37 @@ http://smart-hdip.com:6204/ali010/ali010/7049
 http://smart-hdip.com:6204/ali010/ali010/2568
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport News HD
 http://smart-hdip.com:6204/ali010/ali010/2567
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD1 1080i
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD1
 http://smart-hdip.com:6204/ali010/ali010/127
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD2 1080i
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD2
 http://smart-hdip.com:6204/ali010/ali010/128
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD3 1080i
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD3
 http://smart-hdip.com:6204/ali010/ali010/129
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD4 1080i
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD4
 http://smart-hdip.com:6204/ali010/ali010/130
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD5 1080i
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD5
 http://smart-hdip.com:6204/ali010/ali010/132
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD6 1080i
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD6
 http://smart-hdip.com:6204/ali010/ali010/133
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD7 1080i
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD7
 http://smart-hdip.com:6204/ali010/ali010/134
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD8 1080i
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD8
 http://smart-hdip.com:6204/ali010/ali010/135
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD9 1080i
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD9
 http://smart-hdip.com:6204/ali010/ali010/186
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD10 1080i
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD10
 http://smart-hdip.com:6204/ali010/ali010/187
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD11 EN 1080i
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD11 EN
 http://smart-hdip.com:6204/ali010/ali010/188
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD12 EN 1080i
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD12 EN
 http://smart-hdip.com:6204/ali010/ali010/189
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD13 EN 1080i
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD13 EN
 http://smart-hdip.com:6204/ali010/ali010/1694
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD14 Fr 1080i
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD14 FR
 http://smart-hdip.com:6204/ali010/ali010/2555
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD15 Fr 1080i
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD15 FR
 http://smart-hdip.com:6204/ali010/ali010/4763
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD16 Fr 1080i
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",Bein Sport HD16 FR
 http://smart-hdip.com:6204/ali010/ali010/4762
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SKYNET SPORTS HD
