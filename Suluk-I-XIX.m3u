@@ -14,6 +14,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch312)/02.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/02.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",FOX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch328)/02.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",WARNER BROS 
+http://95.216.69.25:8080/raquel/1234/142848
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",FOX CRIME HD
 http://edge.linknetott.swiftserve.com/channelgroup2/cg210production/ch329/02.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST♥MEDIA",FOX FAMILY MOVIES
