@@ -53,11 +53,11 @@ http://tvservice.pro:80/live/911296481644/9327690642/34699.ts
 http://tvservice.pro:80/live/911296481644/9327690642/34697.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",MOVIES NOW 2 FHD
 http://tvservice.pro:80/live/911296481644/9327690642/34698.ts
-
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",SONY PIX FHD
+http://tvservice.pro:80/live/911296481644/9327690642/34587.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",SONY PIX HD
 http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14424
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",SONY PIX FHD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/25737
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",&FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",&PRIVE HD
@@ -71,38 +71,42 @@ http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14555
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",Warner Bros
 http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14622
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",Star Gold HD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/25714
+http://tvservice.pro:80/live/911296481644/9327690642/34582.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",Star Gold Select HD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/25712
+http://tvservice.pro:80/live/911296481644/9327690642/34583.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",Star Plus HD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/25710
+http://tvservice.pro:80/live/911296481644/9327690642/2037.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",SUN TV HD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/23914
+http://tvservice.pro:80/live/911296481644/9327690642/34454.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",ZEE CINEMA HD
 https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",TATA SKY BOLLYWOOD PREMIERE HD
 http://tvservice.pro:80/live/911296481644/9327690642/34576.ts
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",STAR SPORTS 1 FHD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/27551
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",STAR SPORTS 2 FHD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/27550
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",STAR SPORTS SELECT 1 FHD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/27547
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",STAR SPORTS SELECT 2 FHD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/27546
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",STAR SPORTS Hindi FHD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/27548
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",SONY ESPN FHD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/27553
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",SONY SIX FHD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/27552
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",SONY TEN 1 FHD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/27544
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",SONY TEN  2 FHD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/27543
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",SONY TEN  3 FHD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/27542
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",STAR SPORTS SELECT 1 HD
+http://tvservice.pro:80/live/911296481644/9327690642/34489.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",STAR SPORTS SELECT 2 HD
+http://tvservice.pro:80/live/911296481644/9327690642/34488.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",STAR SPORTS 1 HD
+http://tvservice.pro:80/live/911296481644/9327690642/34493.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",STAR SPORTS 2 HD
+http://tvservice.pro:80/live/911296481644/9327690642/34491.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",SONY ESPN HD
+http://tvservice.pro:80/live/911296481644/9327690642/34495.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",SONY SIX HD
+http://tvservice.pro:80/live/911296481644/9327690642/34494.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",STAR SPORTS TAMIL
+http://tvservice.pro:80/live/911296481644/9327690642/34487.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",TEN 1 HD
+http://tvservice.pro:80/live/911296481644/9327690642/34486.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",TEN 2 HD
+http://tvservice.pro:80/live/911296481644/9327690642/34485.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",TEN 3 HD
+http://tvservice.pro:80/live/911296481644/9327690642/34484.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",STAR SPORTS 1 HINDI HD
+http://tvservice.pro:80/live/911296481644/9327690642/34492.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",STAR SPORTS 3
+http://tvservice.pro:80/live/911296481644/9327690642/34490.ts
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",Jio Football HD
 http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14798
@@ -136,24 +140,26 @@ http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14058
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",Animal Planet HD
 http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14617
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",NAT GEO WILD FHD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/25740
+http://tvservice.pro:80/live/911296481644/9327690642/34694.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",NAT GEO FHD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/25721
+http://tvservice.pro:80/live/911296481644/9327690642/34693.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",NAT GEO PEOPLE HD
+http://tvservice.pro:80/live/911296481644/9327690642/34695.ts
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",Discovery World HD
 http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14553
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",Discovery JEET HD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/25698
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",DISCOVERY JEET HD
+http://tvservice.pro:80/live/911296481644/9327690642/34637.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",FYI TV18 HD
 http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14585
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",History TV 18 FHD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/25724
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",Sony BBC Earth FHD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/25739
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",HISTORY TV18 HD
+http://tvservice.pro:80/live/911296481644/9327690642/34474.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",SONY BBC EARTH HD
+http://tvservice.pro:80/live/911296481644/9327690642/34460.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",TLC World HD
 http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14613
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",Travel XP FHD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/25708
+http://tvservice.pro:80/live/911296481644/9327690642/34575.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",CNBC TV18 Prime HD
 http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14593
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",Jio Exclusive HD
@@ -162,15 +168,17 @@ http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14808
 http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14799
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",Star Plus HD
 http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14470
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",Star World HD
-http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14743
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",STAR WORLD HD
+http://tvservice.pro:80/live/911296481644/9327690642/34686.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",STAR WORLD PREMIER HD
+http://tvservice.pro:80/live/911296481644/9327690642/34685.ts
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",MTV Beats HD
 http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14349
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",MTV Plus HD
 http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14457
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",Sony Rox FHD
-http://mygoldtv.biz:80/harpreetdhaliwalk@gmail.com/j63CkuT93u/25717
+http://tvservice.pro:80/live/911296481644/9327690642/34586.ts
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥KIDS",Cartoon Network HD
 http://iptv-area-51.tv:2095/Caponnecmon/Cponne21/14676
@@ -505,17 +513,17 @@ http://smart-hdip.com:6204/ali010/ali010/4763
 http://smart-hdip.com:6204/ali010/ali010/4762
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SKYNET SPORTS HD
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/5396
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5396
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SKYNET SPORTS 1
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/5395
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5395
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SKYNET SPORTS 2
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/5394
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5394
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SKYNET SPORTS 4
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/5393
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5393
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SKYNET SPORTS 5
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/5392
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5392
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SKYNET SPORTS 6
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/5391
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5391
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",TRUE SPORTS 1 HD
 http://xxultraxx.com:80/adnan/123456/22462
@@ -706,21 +714,21 @@ http://163.172.211.229:8000/live/gfsdythfitspo/rsfrhgspit/54.ts
 http://163.172.211.229:8000/live/gfsdythfitspo/rsfrhgspit/55.ts
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="WORLD♥SPORTS",Sky Sport 24 HD IT
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/13041
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/13041
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="WORLD♥SPORTS",Sky Sport F1 HD IT
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/13378
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/13378
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="WORLD♥SPORTS",Sky Sport MotoGP HD IT
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/13377
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/13377
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="WORLD♥SPORTS",Sky Sport Arena HD IT
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/46536
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/46536
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="WORLD♥SPORTS",Sky Sport Serie A HD IT
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/46539
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/46539
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="WORLD♥SPORTS",Sky Sport Football HD IT
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/46129
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/46129
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="WORLD♥SPORTS",Sky Sports Uno HD IT
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/53160
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/53160
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="WORLD♥SPORTS",Sky Sport Mix HD IT
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/46537
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/46537
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="WORLD♥SPORTS",VIASAT SPORT HD
 http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/208/index.m3u8
