@@ -802,7 +802,20 @@ http://142.44.213.159:25461/live/expiresevery/1.3hours/93.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",BT SPORT 3 HD
 http://142.44.213.159:25461/live/expiresevery/1.3hours/206.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",BT SPORT ESPN HD
-http://62.210.214.28:9989/live?channelId=146&deviceMac=00:1A:79:BE:2F:F6&uid=1615&fileName=146.ts
+http://king365tv.podzone.org:2103/live/Zacharie.Laramee/8736879840/1689.ts
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",POLSAT SPORT PREMIUM 1 TRANS
+http://online.123iptv.net:25461/nata/nata/372
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",POLSAT SPORT PREMIUM 2 TRANS
+http://online.123iptv.net:25461/nata/nata/373
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",POLSAT SPORT PREMIUM PPV3
+http://online.123iptv.net:25461/nata/nata/386
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",POLSAT SPORT PREMIUM PPV4
+http://online.123iptv.net:25461/nata/nata/387
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",POLSAT SPORT PREMIUM PPV5
+http://online.123iptv.net:25461/nata/nata/388
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",POLSAT SPORT PREMIUM PPV6
+http://online.123iptv.net:25461/nata/nata/389
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",RMC Sport 1
 http://xxultraxx.com:80/adnan/123456/21890
