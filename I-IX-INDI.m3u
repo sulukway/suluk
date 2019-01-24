@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J79Hhz7w/D10.png" group-title="SULUK♥IPTV",SULUK INTRO
+https://www.dropbox.com/s/85cv9jpn14qwwi7/Intro%20IPTV.mp4?dl=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J79Hhz7w/D10.png" group-title="SULUK♥IPTV",SULUK ANTHEM
+https://www.dropbox.com/s/4vml0og02nh7ekn/INTROIPTV.mp4?dl=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J79Hhz7w/D10.png" group-title="SULUK♥IPTV",YNWA
+https://www.dropbox.com/s/mfnqkiprmsldfr9/YNWA.mp4?dl=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J79Hhz7w/D10.png" group-title="SULUK♥IPTV",LIVERPOOL FC HD
+http://api.velocitytv.cc:8080/CMT004427/SLHooBH3gq/20971
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",HBO HD
+http://52.66.89.249/HBO_HD/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",MOVIES NOW HD
+http://52.66.89.249/Movies_Now_HD/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",MN PLUS HD
+http://52.66.89.249/MNPLUS/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",MOVIES NOW 2 HD
+http://52.66.89.249/Movies_Now2/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",SONY PIX HD
+http://52.66.89.249/Sony_Pix_HD/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",ROMEDY NOW HD
+http://52.66.89.249/Romedy_Now_HD/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",AXN HD
+http://52.66.89.249/AXN_HD/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",WARNER BROS
+http://52.66.89.249/WB/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",SONY MAX HD
+http://52.66.89.249/Sony_Max_HD/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",TLC HD
+http://52.66.89.249/TLC_HD_World/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥IPTV",MTV HD
+http://52.66.89.249/MTV_HD_Plus/video.m3u8?token=motherfuckerstarapp
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",SONY ESPN HD
+http://52.66.89.249/Sony_ESPN_HD/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",SONY SIX HD
+http://52.66.89.249/Six_HD/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",SONY TEN 1 HD
+http://52.66.89.249/Ten_HD/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",SONY TEN 2 HD
+http://52.66.89.249/Ten2_HD/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",SONY TEN 3 HD
+http://52.66.89.249/Ten3_HD/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",JIO FOOTBALL HD
+http://52.66.89.249/Jio_Football/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",JIO FOOTBALL 1 HD
+http://52.66.89.249/Jio_Football_1/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",JIO FOOTBALL 2 HD
+http://52.66.89.249/Jio_Football_2/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",JIO FOOTBALL 3 HD
+http://52.66.89.249/Jio_Football_3/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",JIO FOOTBALL 4 HD
+http://52.66.89.249/Jio_Football_4/video.m3u8?token=motherfuckerstarapp
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",DISCOVERY HD
+http://52.66.89.249/Discovery_HD_World/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",TRAVEL XP HD 
+http://52.66.89.249/Travel_XP_HD/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",TLC HD
+http://52.66.89.249/TLC_HD_World/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",ANIMAL PLANET HD
+http://52.66.89.249/Animal_Planet_HD/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",HISTORY 18+ HD
+http://52.66.89.249/History_HD/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",DISCOVERY TURBO
+http://52.66.89.249/Discovery_Turbo/video.m3u8?token=motherfuckerstarapp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",DISCOVERY SCIENCE
+http://52.66.89.249/Discovery_Science/video.m3u8?token=motherfuckerstarapp
+
