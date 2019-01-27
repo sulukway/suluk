@@ -446,11 +446,11 @@ http://113.160.151.100:8889/udp/225.1.2.230:30120
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/QMxk9X7h/FPT.png" group-title="FPT♥KIDS",Disney Channel
 http://113.160.151.100:8889/udp/225.1.2.160:30120
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",BEIN_SPORTS_1_HD INDO
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",BEIN_SPORTS_1 INDO
 http://universeiptv.com:8000/mostfasolo/4938234/31993
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",BEIN_SPORTS_2_HD INDO
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",BEIN_SPORTS_2 INDO
 http://universeiptv.com:8000/mostfasolo/4938234/31992
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",BEIN_SPORTS_3_HD INDO
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",BEIN_SPORTS_3 INDO
 http://universeiptv.com:8000/mostfasolo/4938234/31991
 #EXTVLCOPT:http-user-agent=Exo45Play 19.0
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SKYNET SPORT HD
