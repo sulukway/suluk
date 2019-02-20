@@ -1203,6 +1203,37 @@ http://iptv-line.com:6969/live/roknocupsu1/olisiptv/3279.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IN : Tamil: CHITHIRAM TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/CHITHIRAMTV.png" group-title="India",IN : Tamil: CHITHIRAM TV
 http://iptv-line.com:6969/live/roknocupsu1/olisiptv/3300.m3u8
 
+#EXTINF:-1,RUS : CHANNEL ONE RUSSIA
+http://p5.giffy.be:8080/cecilia/cecili/94578
+#EXTINF:-1,RUS: BOXE TB
+http://p5.giffy.be:8080/cecilia/cecili/26584
+#EXTINF:-1,RUS: MATCH APEHA HD
+http://p5.giffy.be:8080/cecilia/cecili/26592
+#EXTINF:-1,RUS: MATCH FUTBOL 1 HD
+http://p5.giffy.be:8080/cecilia/cecili/26595
+#EXTINF:-1,RUS: MATCH FUTBOL 2 HD
+http://p5.giffy.be:8080/cecilia/cecili/26594
+#EXTINF:-1,RUS: MATCH FUTBOL 3 HD
+http://p5.giffy.be:8080/cecilia/cecili/26593
+#EXTINF:-1,RUS: MATCH GAME
+http://p5.giffy.be:8080/cecilia/cecili/26571
+#EXTINF:-1,RUS: MATCH OUR SPORTS
+http://p5.giffy.be:8080/cecilia/cecili/26585
+#EXTINF:-1,RUS: MATCH PLANET
+http://p5.giffy.be:8080/cecilia/cecili/26586
+#EXTINF:-1,RUS: MATCH SPORTS
+http://p5.giffy.be:8080/cecilia/cecili/26596
+#EXTINF:-1,RUS: MATCH TV
+http://p5.giffy.be:8080/cecilia/cecili/26597
+#EXTINF:-1,RUS: RUSSIA 1 HD
+http://p5.giffy.be:8080/cecilia/cecili/26575
+#EXTINF:-1,RUS: RUSSIA LEAGUE HD
+http://p5.giffy.be:8080/cecilia/cecili/26591
+#EXTINF:-1,RUS: VIASAT SPORT EAST
+http://p5.giffy.be:8080/cecilia/cecili/26583
+#EXTINF:-1,RUS: XTREAM SPORTS
+http://p5.giffy.be:8080/cecilia/cecili/26582
+
 #EXTINF:-1 tvg-ID="" tvg-name="VIP/OSN: MY CINEMA HD" tvg-logo="" group-title="ARABIC",VIP/OSN: MY CINEMA HD
 http://iptv-line.com:6969/live/roknocupsu1/olisiptv/31762.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP/OSN: NICKELODEON HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/nickelodeonhd.png" group-title="ARABIC",VIP/OSN: NICKELODEON HD
